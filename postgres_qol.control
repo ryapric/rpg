@@ -1,0 +1,3 @@
+# postgres_qol extension
+comment = 'Quality-Of-Life plpgsql functions'
+relocatable = true
