@@ -1,0 +1,4 @@
+# pg_qol extension
+comment = 'Quality-of-Life PLpgSQL functions'
+default_version = 0.1
+relocatable = true
