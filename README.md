@@ -1,5 +1,5 @@
-PostgreSQL's pl/pgsql Quality-of-Life Extension
-===============================================
+PostgreSQL Extension to Mimic R Data Manipulation Functionality
+===============================================================
 
 To be filled out.
 
