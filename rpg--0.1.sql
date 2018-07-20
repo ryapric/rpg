@@ -1,4 +1,4 @@
--- Pass a date field to return a year/month field.
+-- Pass a date field to return a year/month VARCHAR field.
 -- Useful for time-series monthly aggregation or labelling
 -- Default delimiter is '-', i.e. returns '2018-05'
 CREATE OR REPLACE FUNCTION year_month (

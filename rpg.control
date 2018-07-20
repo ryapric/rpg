@@ -1,0 +1,4 @@
+# rpg extension
+comment = 'R-Inspired PLpgSQL functions'
+default_version = 0.1
+relocatable = true
